@@ -1,8 +1,8 @@
 function Header() {
   return (
-      <nav class="navbar navbar-expand-lg navbar-light bg-dark">
-        <div class="container-fluid">
-          <a class="navbar-brand text-light" href="#">Movie Films</a>
+      <nav className="navbar navbar-expand-lg navbar-light bg-dark">
+        <div className="container-fluid">
+          <a className="navbar-brand text-light" href="#">Movie Films</a>
         </div>
       </nav>
   );

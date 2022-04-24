@@ -1,8 +1,8 @@
 function Footer() {
   return (
-    <div class="text-center p-4 bg-dark">
+    <div className="text-center p-4 bg-dark">
       <span className="text-light">© 2021 Copyright:</span>
-      <a class="text-reset fw-bold text-light" href="#">MDBootstrap.com</a>
+      <a className="text-reset fw-bold text-light" href="#">MDBootstrap.com</a>
     </div>
   );
 }
